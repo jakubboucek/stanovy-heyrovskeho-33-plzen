@@ -36,7 +36,7 @@ b)	vedení evidence plateb členů společenství, které jsou podle písm. a) v
 c)	vedení evidence nákladů vztahujících se k domu a pozemku a k činnosti společenství,
 d)	zřízení účtu u banky a hospodaření s finančními prostředky,
 e)	vedení účetnictví v souladu se zvláštními právními předpisy,
-f)	rozúčtování cen služeb na jednotlivé členy společenství, a to v souladu s usnesením shromáždění není-li rozúčtování cen služeb stanoveno zvláštním právním předpisem nebo rozhodnutím cenového orgánu a vyúčtování přijatých záloh na jednotlivé členy společenství,
+f)	rozúčtování cen služeb na jednotlivé členy společenství a to v souladu s usnesením shromáždění není-li rozúčtování cen služeb stanoveno zvláštním právním předpisem nebo rozhodnutím cenového orgánu a vyúčtování přijatých záloh na jednotlivé členy společenství,
 g)	vedení seznamu členů společenství,
 h)	vedení potřebných evidencí spojených se zajišťováním služeb a jejich úhradami včetně vyúčtování.
 (5)	Společenství zajišťuje činnosti související s provozováním společných částí domu, zejména technických zařízení, která slouží i jiným fyzickým nebo právnickým osobám než členům společenství včetně uzavírání s tím souvisejících smluv.
@@ -100,7 +100,7 @@ n)	schvalování rozpočtu společenství,
 o)	udělování předchozího souhlasu k uzavření smlouvy o úvěru včetně schválení výše a podmínek úvěru,
 p)	rozhodování o dalších záležitostech určených občanským zákoníkem, těmito stanovami nebo v záležitostech, které si shromáždění vyhradí k rozhodnutí.
 (4)	Shromáždění se schází nejméně jednou za rok. Svolává je výbor. Svolavatel připravuje též podklady pro jednání shromáždění.
-(5)	Shromáždění musí být svoláno též, požádají-li o to vlastníci jednotek, kteří mají více než čtvrtinu všech hlasů, nejméně však dva z nich, a to do 15 dnů od doručení této žádosti.
+(5)	Shromáždění musí být svoláno též, požádají-li o to vlastníci jednotek, kteří mají více než čtvrtinu všech hlasů, nejméně však dva z nich a to do 15 dnů od doručení této žádosti.
 (6)	Neplní-li svolavatel uvedený v odst. (4) povinnost svolat shromáždění podle odst. (4) nebo (5), jsou oprávněni shromáždění svolat členové společenství, jejichž počet hlasů činí alespoň jednu čtvrtinu všech hlasů, a to na náklad společenství vlastníků.
 (7)	Shromáždění se svolává pozvánkou vyvěšenou na domovní vývěsce. Pokud o to člen společenství výslovně požádá, zasílá se pozvánka zároveň na členem určenou poštovní adresu, případně na adresu pro elektronické doručování korespondence.
 (8)	Pozvánka musí být vyvěšena, případně odeslána na adresu dle předchozího odstavce nejméně 15 dní přede dnem konání shromáždění. V pozvánce se uvede zejména datum, hodina, místo konání a program jednání shromáždění. Dále se v pozvánce uvede, kde se mohou členové společenství seznámit s podklady k nejdůležitějším bodům jednání, pokud nejsou tyto podklady k pozvánce připojeny. Má-li dojít ke změně stanov společenství, pozvánka obsahuje v příloze též návrh těchto změn.
@@ -148,7 +148,7 @@ a)	činí právní jednání jménem společenství ve věcech předmětu činno
 b)	zajišťuje kontrolu kvality dodávek, služeb a jiných plnění podle uzavřených smluv a činí vůči dodavatelům potřebná právní nebo jiná opatření k odstranění zjištěných nedostatků nebo k náhradě vzniklé škody,
 c)	vymáhá jménem společenství plnění povinností uložených členům společenství,
 d)	plní povinnosti ve vztahu k obchodnímu rejstříku vedenému příslušným rejstříkovým soudem, kterým je Krajský soud v Plzni.
-(12)	Prvními členy výboru byli zvoleni: Šárka Jonáková, Miroslav Neumann, Hana Vildová a Ing. Zdeněk Edl.
+(12)	Prvními členy výboru byli zvoleni: Šárka Jonáková (nar. 8. 8. 1973), Miroslav Neumann (nar. 22. 8. 1970), Hana Vildová (nar. 18. 5. 1949), Ing. Zdeněk Edl (nar. 14. 8. 1938).
 Čl. IX
 Jednání dalších osob za společenství
 (1)	Shromáždění může rozhodnout, že určité činnosti bude pro společenství vykonávat zaměstnanec (zaměstnanci) společenství na základě pracovní smlouvy, dohody o pracovní činnosti nebo dohody o provedení práce.
@@ -157,7 +157,7 @@ Jednání dalších osob za společenství
 (4)	Působnost podle odstavce (1) a (2) nebo její část může shromáždění svým usnesením svěřit výboru.
 Čl. X
 Zvláštní způsob rozhodování ve společenství
-(1)	O záležitostech spadajících do působnosti shromáždění může být rozhodováno mimo zasedání. Výbor zašle návrh rozhodnutí na adresu členů společenství uvedenou v veřejném seznamu katastru nemovitostí, ledaže člen společenství požádá písemně o zasílání na jinou adresu. Návrh musí obsahovat návrh usnesení, podklady potřebné pro jeho posouzení nebo údaj, kde jsou uveřejněny a údaje o lhůtě, ve které se má člen společenství vyjádřit. Lhůta k vyjádření člena společenství činí 15 dnů od doručení návrhu členu společenství.
+(1)	O záležitostech spadajících do působnosti shromáždění může být rozhodováno mimo zasedání. Výbor doručí členům společenství návrh rozhodnutí a to osobně, je-li to možné, nebo jej zašle na adresu členů uvedenou v veřejném seznamu katastru nemovitostí, ledaže člen společenství požádá písemně o zasílání na jinou adresu. Návrh musí obsahovat návrh usnesení, podklady potřebné pro jeho posouzení nebo údaj, kde jsou uveřejněny a údaje o lhůtě, ve které se má člen společenství vyjádřit. Lhůta k vyjádření člena společenství činí 15 dnů od doručení návrhu členu společenství.
 (2)	K platnosti hlasování se vyžaduje písemné vyjádření „souhlasím“/„nesouhlasím“ člena společenství s uvedením dne, měsíce a roku, kdy bylo vyjádření učiněno, opatřené vlastnoručním podpisem člena společenství na listině obsahující plné znění návrhu rozhodnutí.
 (3)	Pokud nedoručí člen společenství ve lhůtě 15 dnů výboru svůj souhlas s návrhem usnesení, platí, že s návrhem nesouhlasí. Většina se vypočítává z celkového počtu hlasů všech členů společenství.
 (4)	Výbor oznámí členům společenství v písemné formě výsledek hlasování a v případě přijetí usnesení jim oznámí i celý obsah přijatého usnesení.
@@ -171,7 +171,7 @@ a)	dnem vzniku společenství v případech, kdy tyto osoby nabyly vlastnictví 
 b)	dnem nabytí vlastnictví k jednotce v případech, kdy tyto osoby nabyly vlastnictví k jednotce po dni vzniku společenství.
 (2)	Společnými členy společenství jsou spoluvlastníci jednotky nebo manželé, kteří mají jednotku ve společném jmění manželů. Ze společného členství jsou společní členové oprávněni a povinni společně a nerozdílně. Společní členové jsou povinni zmocnit společného zástupce, který bude vykonávat jejich práva vůči společenství. Zmocnění musí být předloženo společenství v písemné formě.
 (3)	Spoluvlastníci jednotky jako společní členové mají postavení vlastníka jednotky a mají právo na schůzi shromáždění hlasovat jako jeden vlastník – člen společenství s váhou hlasu odpovídající spoluvlastnickému podílu na společných částech domu, přičemž váha hlasu je nedělitelná.
-(4)	Nový člen společenství je zapsán do seznamu členů společenství neprodleně poté, co oznámí prokazatelně nabytí vlastnictví jednotky. V seznamu členů společenství se u každého člena společenství vede zejména jméno, příjmení, datum narození, místo trvalého pobytu a váha hlasu při hlasování na shromáždění. Pro potřeby správy domu a pozemku se dále eviduje počet osob, které budou mít v bytě domácnost, telefonní číslo člena, adresa člena pro elektronické doručování korespondence a číslo bankovního účtu. Ve stejném rozsahu jsou vedeny informace o osobách, kterým člen přenechal byt do užívání na dobu nikoli přechodnou (delší než 2 měsíce).
+(4)	Nový člen společenství je zapsán do seznamu členů společenství neprodleně poté, co oznámí prokazatelně nabytí vlastnictví jednotky. V seznamu členů společenství se u každého člena společenství vede zejména jméno, příjmení, datum narození, místo trvalého pobytu a váha hlasu při hlasování na shromáždění. Pro potřeby správy domu a pozemku se dále eviduje počet osob, které budou mít v bytě domácnost, telefonní číslo člena, adresa člena pro elektronické doručování korespondence a číslo bankovního účtu. Ve stejném rozsahu jsou vedeny informace o osobách, kterým člen přenechal byt do užívání, na dobu nikoli přechodnou (delší než 2 měsíce).
 (5)	Člen je odpovědný za správnost údajů, které společenství oznámil. Zjistí-li společenství změnu údajů z veřejného rejstříku, může změnu v seznamu členů provést i bez oznámení člena. Seznam členů není veřejně přístupný, společenství vydá na žádost člena informace, na něž má člen nárok ze zákona.
 Čl. XII
 Práva a povinnosti člena společenství a jejich uplatňování
@@ -198,7 +198,7 @@ h)	odstranit na svůj náklad závady a poškození, které na jiných jednotká
 i)	umožnit instalaci a údržbu zařízení pro měření tepla a vody v jednotce a odečet naměřených hodnot,
 j)	umožnit po předchozím vyzvání přístup do jednotky, pokud to nezbytně vyžadují úpravy, provoz, opravy apod. ostatních jednotek nebo domu jako celku; nejde-li o havarijní či obdobný stav, činí výzvu písemně výbor alespoň 3 dny předem,
 k)	oznámit výboru nabytí vlastnictví jednotky včetně svého jména, adresy, data narození, telefonního čísla, adresy pro elektronické doručování korespondence, čísla bankovního účtu a počtu osob, které budou mít v bytě domácnost (s vymezení jejich vztahu k bytu, např. člen domácnosti, nájemník, podnájemník, apod.), a to do jednoho měsíce ode dne, kdy se dozvěděl nebo mohl dozvědět, že je vlastníkem. Toto platí obdobně i v případě změny uvedených údajů.
-l)	oznamovat výboru bez zbytečného odkladu změny v počtu osob, které mají v bytě domácnost a bydlí v něm po dobu, která činí v souhrnu nejméně tři měsíce v jednom kalendářním roce. To platí i tehdy, pokud přenechá člen společenství byt k užívání jiné osobě, v takovém případě je člen povinen oznámit výboru jméno, adresu, telefonní číslo a adresu pro elektronické doručování korespondence osob, jímž byl byt přenechán k užívání.
+l)	oznamovat výboru bez zbytečného odkladu změny v počtu osob, které mají v bytě domácnost a bydlí v něm po dobu, která činí v souhrnu nejméně tři měsíce v jednom kalendářním roce. To platí i tehdy, pokud přenechá člen společenství byt k užívání jiné osobě, v takovém případě je člen povinen oznámit výboru jméno, adresu a telefonní číslo osob, jimž byl byt přenechán k užívání.
 m)	při provádění údržby, opravy, úpravy, přestavby či jiné změny uvnitř bytu nebo na společné části domu, která slouží výlučně k užívání člena společenství, umožnit do nich přístup na základě výzvy výboru pro ověření, zda stavební úpravy neohrožují, nepoškozují nebo nemění společné části domu,
 n)	zdržet se všeho, co brání údržbě, úpravě, opravě, přestavbě či jiné změně domu nebo pozemku, o níž bylo řádně rozhodnuto,
 o)	předat výboru ověřenou projektovou dokumentaci v případě, že provádí změnu stavby a vyžádat si písemný souhlas výboru a příslušného technického oddělení správce, pokud při úpravách vlastního bytu zasahuje do společných částí a zařízení domu (zejména stoupacích rozvodů vody, odpadu, topení, větrání, vedení elekřiny apod.). Souhlas není potřeba v případech neodkladných poruch a havárií.
@@ -207,7 +207,7 @@ p)	oznámit výboru svoji nepřítomnost v bytě, která má být větší než 
 (4)	Vlastník nebo vlastníci jednotek, kteří jsou dotčeni jednáním vlastníka jednotky, který porušuje své povinnosti, mají možnost obrátit se na soud a domáhat se toho, aby soud tomuto vlastníku uložil zdržet se porušování jeho povinností, případně uložil povinnost odstranit následky jím provedených zásahů do práv dalších vlastníků jednotek.
 (5)	Na návrh osoby odpovědné za správu domu nebo dotčeného vlastníka jednotky může soud nařídit prodej jednotky toho vlastníka, který porušuje povinnost uloženou mu vykonatelným rozhodnutím soudu způsobem podstatně omezujícím nebo znemožňujícím práva ostatních vlastníků jednotek.
 (6)	Dodržování povinností uvedených v odst. (2) písm. a) e) f) g) i) j) m) n) p) platí i pro osoby žijící s členem společenství ve společné domácnosti nebo osoby, kterým člen přenechal byt k užívání. 
-(7)	Každý člen společenství je povinen s těmito stanovami seznámit členy domácnosti a osoby, kterým člen společenství přenechal byt k užívání a zajistit, aby se stanovami řídili.
+(7)	Každý člen společenství je povinen s těmito stanovami seznámit členy domácnosti a osoby, kterým člen společenství přenechal byt k užívání, a zajistit, aby se stanovami řídili.
 Čl. XIII
 Zánik členství ve společenství
 (1)	Členství ve společenství zaniká:
@@ -221,7 +221,7 @@ e)	dalším způsobem, pokud to stanoví platné právní předpisy.
 TVORBA ROZPOČTU, HOSPODAŘENÍ SPOLEČENSTVÍ, PRAVIDLA PRO SPRÁVU DOMU A POZEMKU A PRO UŽÍVÁNÍ SPOLEČNÝCH ČÁSTÍ
 Čl. XIV
 Tvorba rozpočtu, hospodaření společenství a způsob nakládání s jeho majetkem
-(1)	Společenství hospodaří s finančními prostředky poskytovanými členy společenství na úhradu příspěvků na správu domu a pozemku, dále s finančními prostředky poskytovanými členy společenství na úhradu za služby spojené s užíváním jednotek a s dalšími finančními prostředky získanými v rámci činnosti společenství, a to v souladu s rozpočtem na daný kalendářní rok.
+(1)	Společenství hospodaří s finančními prostředky poskytovanými členy společenství na úhradu příspěvků na správu domu a pozemku, dále s finančními prostředky poskytovanými členy společenství na úhradu za služby spojené s užíváním jednotek a s dalšími finančními prostředky získanými v rámci činnosti společenství a to v souladu s rozpočtem na daný kalendářní rok.
 (2)	Návrh rozpočtu předkládá k odsouhlasení shromáždění výbor. Návrh rozpočtu zahrnuje zejména návrh plánu oprav, revizí a prohlídek společných částí na daný kalendářní rok, návrh tvorby pravidelných a mimořádných příspěvků členů společenství na správu domu a pozemku, návrh odměn členům orgánů společenství a odměn správci. Rozpočet na daný kalendářní rok musí být odsouhlasen nejpozději do konce prvního pololetí.
 (3)	Nabude-li společenství věci, práva, jiné majetkové hodnoty, byty nebo nebytové prostory k účelu zajišťování správy domu a pozemku, je povinno s nimi hospodařit pouze v souladu s vymezeným účelem. Výbor může v těchto záležitostech činit právní jednání pouze na základě usnesení shromáždění, pokud v usnesení shromáždění není stanoveno jinak.
 (4)	Společenství je povinno uplatňovat a vymáhat plnění povinností uložených členům společenství k tomu příslušným orgánem společenství a plnění závazků třetích osob vůči společenství. Výbor odpovídá za včasné plnění těchto úkolů.
@@ -244,7 +244,7 @@ Užívání společných částí
 (4)	Člen společenství je povinen se zdržet užívání balkonu a lodžií jako skladiště, zajistit, aby předměty na nich umístěné byly zabezpečeny proti pádu a při zalévání květin dbát na to, aby nedocházelo ke stékání vody do nižších podlaží.
 (5)	Člen společenství je povinen zajišťovat pořádek a čistotu ve společných částech domu a své jednání uvést v soulad s Domovním řádem, jako předpisem upravujícím zajištění pořádku a čistoty v domě a užívání společných prostor (místností) a zařízení v domě.
 (6)	Každý člen společenství je povinen si při užívání jednotky počínat v souladu s dobrými mravy tak, aby nedocházelo k obtěžování ostatních členů společenství. Při provádění stavebních prací v jednotkách je povinen oznámit termín provádění stavebních prací výboru a ostatním členům společenství a dbát na to, aby práce byly prováděny pouze v pracovních dnech od 8.00 do 18.00 hod. V době od 22.00 do 6.00 se každý člen společenství zdrží hluku, používání hlučných přístrojů a nástrojů, hry na hudební nástroje, zpěvu a hlučné komunikace.
-(7)	Body (1) – (6) tohoto článku platí obdobně i pro osoby, kterým člen společenství přenechal byt k užívání a všechny členy společné domácnosti.
+(7)	Body (1) – (6) tohoto článku platí obdobně i pro osoby, kterým člen společenství přenechal byt k užívání, a všechny členy společné domácnosti.
 (8)	Výbor zajišťuje kontrolu využití společných částí domu v porovnání s jejich původním určením. V případě zájmu člena společenství o využití společných částí domu je možné uzavřít s ostatními vlastníky jednotek prostřednictvím výboru dohodu o pronájmu.
 ČÁST ŠESTÁ
 ZÁVĚREČNÁ USTANOVENÍ
