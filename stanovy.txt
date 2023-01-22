@@ -24,7 +24,7 @@ e)	administrativní a operativně technické činnosti spojené se správou domu
 f)	správy jednotek, které jsou ve spoluvlastnictví všech členů společenství,
 g)	dalších činností, které vyplývají pro společenství z právních předpisů a technických postupů spojených se správou domu a pozemku.
 (2)	V rámci předmětu své činnosti může společenství sjednávat smlouvy, především o:
-a)	zajištění dodávek služeb spojených s užíváním jednotek, nejde-li o služby, jejichž dodávky si členové společenství zajišťují u dodavatele přímo, např. dodávky tepla, teplé a studené vody, odvod odpadní vody, úklid společných prostor, užívání výtahu, zařízení pro příjem televizního a rozhlasového signálu (dále jen „služby“)
+a)	zajištění dodávek služeb spojených s užíváním jednotek, nejde-li o služby, jejichž dodávky si členové společenství zajišťují u dodavatele přímo, např. dodávky tepla, teplé a studené vody, odvod odpadní vody, úklid společných prostor, užívání výtahu, zařízení pro příjem televizního a rozhlasového signálu (dále jen „služby“),
 b)	pojištění domu,
 c)	nájmu společných částí domu,
 d)	nájmu jednotek, které jsou ve spoluvlastnictví všech členů společenství.
@@ -36,7 +36,7 @@ c)	vedení evidence nákladů vztahujících se k domu a pozemku a k činnosti s
 d)	zřízení účtu u banky a hospodaření s finančními prostředky,
 e)	vedení účetnictví v souladu se zvláštními právními předpisy,
 f)	rozúčtování cen služeb na jednotlivé členy společenství, a to v souladu s usnesením shromáždění není-li rozúčtování cen služeb stanoveno zvláštním právním předpisem nebo rozhodnutím cenového orgánu a vyúčtování přijatých záloh na jednotlivé členy společenství,
-g)	vedení seznamu členů společenství.
+g)	vedení seznamu členů společenství,
 h)	vedení potřebných evidencí spojených se zajišťováním služeb a jejich úhradami včetně vyúčtování.
 (5)	Společenství zajišťuje činnosti související s provozováním společných částí domu, zejména technických zařízení, která slouží i jiným fyzickým nebo právnickým osobám než členům společenství včetně uzavírání s tím souvisejících smluv.
 (6)	V rámci činností vykonávaných v rozsahu občanského zákoníku a těchto stanov společenství dále zajišťuje zejména:
@@ -103,7 +103,7 @@ p)	rozhodování o dalších záležitostech určených občanským zákoníkem,
 (6)	Neplní-li svolavatel uvedený v odst. (4) povinnost svolat shromáždění podle odst. (4) nebo (5), jsou oprávněni shromáždění svolat členové společenství, jejichž počet hlasů činí alespoň jednu čtvrtinu všech hlasů, a to na náklad společenství vlastníků.
 (7)	Shromáždění se svolává pozvánkou vyvěšenou na domovní vývěsce. Pokud o to člen společenství výslovně požádá, zasílá se pozvánka zároveň na členem určenou poštovní, případně e-mailovou adresu.
 (8)	Pozvánka musí být vyvěšena, případně odeslána na adresu dle předchozího odstavce nejméně 15 dní přede dnem konání shromáždění. V pozvánce se uvede zejména datum, hodina, místo konání a program jednání shromáždění. Dále se v pozvánce uvede, kde se mohou členové společenství seznámit s podklady k nejdůležitějším bodům jednání, pokud nejsou tyto podklady k pozvánce připojeny. Má-li dojít ke změně stanov společenství, pozvánka obsahuje v příloze též návrh těchto změn.
-(9)	Záležitost, která nebyla zařazena na pořad jednání shromáždění v pozvánce, lze rozhodnout jen za účasti a se souhlasem všech členů společenství. Pokud o to před rozesláním pozvánky na shromáždění požádají alespoň dva členové Společenství, kteří mají více než ¼ všech hlasů, zařadí statutární orgán na pořad shromáždění jimi určenou záležitost za předpokladu, že k takové záležitosti je navrženo usnesení nebo je její zařazení odůvodněno.
+(9)	Záležitost, která nebyla zařazena na pořad jednání shromáždění v pozvánce, lze rozhodnout jen za účasti a se souhlasem všech členů společenství. Pokud o to před rozesláním pozvánky na shromáždění požádají alespoň dva členové společenství, kteří mají více než ¼ všech hlasů, zařadí statutární orgán na pořad shromáždění jimi určenou záležitost za předpokladu, že k takové záležitosti je navrženo usnesení nebo je její zařazení odůvodněno.
 (10)	Jednání shromáždění řídí předseda (místopředseda) výboru nebo pověřený člen výboru. Je-li shromáždění svoláno podle odstavce (6), řídí jednání shromáždění člen společenství zmocněný tímto svolavatelem.
 (11)	Shromáždění je schopné usnášení, jsou-li přítomni členové společenství, kteří mají většinu hlasů. K přijetí usnesení je zapotřebí nadpoloviční většiny hlasů přítomných členů společenství, pokud občanský zákoník nebo tyto stanovy neurčují jinak.
 (12)	Při hlasování je rozhodující velikost spoluvlastnických podílů členů společenství na společných částech domu.
@@ -138,7 +138,7 @@ f)	zajišťuje řádné vedení písemností společenství,
 g)	sděluje jednotlivým členům společenství podle usnesení shromáždění výši příspěvků na náklady spojené se správou domu a pozemku a výši záloh na úhradu za služby,
 h)	zajišťuje vyúčtování záloh na úhradu za služby a vypořádání nedoplatků nebo přeplatků,
 i)	zajišťuje včasné plnění závazků společenství vzniklých ze smluv a jiných závazků a povinností vůči třetím osobám a včasné uplatňování pohledávek společenství,
-j)	rozhoduje o nabytí, zcizení nebo zatížení movitých věcí, jejichž pořizovací cena nedosáhne v kalendářním roce souhrnné částky 10 000 Kč, dále rozhoduje o zcizení nebo zatížení movitých věcí, jejichž zůstatková cena v kalendářním roce nepřesahuje v souhrnu 10 000 Kč,
+j)	rozhoduje o nabytí, zcizení nebo zatížení movitých věcí, jejichž pořizovací cena nedosáhne v kalendářním roce souhrnné částky 50 000 Kč, dále rozhoduje o zcizení nebo zatížení movitých věcí, jejichž zůstatková cena v kalendářním roce nepřesahuje v souhrnu 50 000 Kč,
 k)	rozhoduje o opravě nebo stavební úpravě společných částí domu, nepřevyšují-li náklady v jednotlivých případech částku 1 000 Kč v průměru na každou jednotku. Tento limit neplatí, pokud se jedná o opravy způsobené havárií na společných částech domu, nebo pokud shromáždění stanoví pro dané období částku vyšší.
 (11)	Výbor jako statutární orgán společenství zejména:
 a)	činí právní jednání jménem společenství ve věcech předmětu činnosti v souladu s občanským zákoníkem, těmito stanovami a usnesením shromáždění,
@@ -240,7 +240,7 @@ Užívání společných částí
 (4)	Člen společenství je povinen se zdržet užívání balkonu a lodžií jako skladiště, zajistit, aby předměty na nich umístěné byly zabezpečeny proti pádu a při zalévání květin dbát na to, aby nedocházelo ke stékání vody do nižších podlaží.
 (5)	Člen společenství je povinen zajišťovat pořádek a čistotu ve společných částech domu a své jednání uvést v soulad s Domovním řádem, jako předpisem upravujícím zajištění pořádku a čistoty v domě a užívání společných prostor (místností) a zařízení v domě.
 (6)	Každý člen společenství je povinen si při užívání jednotky počínat v souladu s dobrými mravy tak, aby nedocházelo k obtěžování ostatních členů společenství. Při provádění stavebních prací v jednotkách je povinen oznámit termín provádění stavebních prací výboru a ostatním členům společenství a dbát na to, aby práce byly prováděny pouze v pracovních dnech od 8.00 do 18.00 hod. V době od 22.00 do 6.00 se každý člen společenství zdrží hluku, používání hlučných přístrojů a nástrojů, hry na hudební nástroje, zpěvu a hlučné komunikace.
-(7)	Body (1) - (6) tohoto platí obdobně i pro všechny členy společné domácnosti, nájemníky a podnájemníky člena společenství a člen společenství je povinnen je s nimi seznámit a zajistit jejich dodržování.
+(7)	Body (1) – (6) tohoto platí obdobně i pro všechny členy společné domácnosti, nájemníky a podnájemníky člena společenství a člen společenství je povinnen je s nimi seznámit a zajistit jejich dodržování.
 (8)	Výbor zajišťuje kontrolu využití společných částí domu v porovnání s jejich původním určením. V případě zájmu člena společenství o využití společných částí domu je možné uzavřít s ostatními vlastníky jednotek prostřednictvím výboru dohodu o pronájmu.
 ČÁST ŠESTÁ
 ZÁVĚREČNÁ USTANOVENÍ
